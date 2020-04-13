@@ -1,7 +1,7 @@
 # Leaflet Homework - Visualizing Data with Leaflet
 
-https://github.com/elvisselimaj/leaflet-challenge/blob/master/Figure-2.PNG
-https://github.com/elvisselimaj/leaflet-challenge/blob/master/Figure-1.PNG
+![2-Logo](Figure-2.PNG)
+![3-Logo](Figure-1.PNG)
 
 
 ## Background
